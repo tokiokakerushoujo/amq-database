@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/amq-database/static/css/main.8a77f93c.chunk.css",
+    "main.js": "/amq-database/static/js/main.971a99c8.chunk.js",
+    "main.js.map": "/amq-database/static/js/main.971a99c8.chunk.js.map",
+    "runtime-main.js": "/amq-database/static/js/runtime-main.71475e88.js",
+    "runtime-main.js.map": "/amq-database/static/js/runtime-main.71475e88.js.map",
+    "static/css/2.1601c95f.chunk.css": "/amq-database/static/css/2.1601c95f.chunk.css",
+    "static/js/2.9baa47da.chunk.js": "/amq-database/static/js/2.9baa47da.chunk.js",
+    "static/js/2.9baa47da.chunk.js.map": "/amq-database/static/js/2.9baa47da.chunk.js.map",
+    "index.html": "/amq-database/index.html",
+    "precache-manifest.176b0fadc47567616f5a3b575a64bd82.js": "/amq-database/precache-manifest.176b0fadc47567616f5a3b575a64bd82.js",
+    "service-worker.js": "/amq-database/service-worker.js",
+    "static/css/2.1601c95f.chunk.css.map": "/amq-database/static/css/2.1601c95f.chunk.css.map",
+    "static/css/main.8a77f93c.chunk.css.map": "/amq-database/static/css/main.8a77f93c.chunk.css.map",
+    "static/js/2.9baa47da.chunk.js.LICENSE.txt": "/amq-database/static/js/2.9baa47da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71475e88.js",
+    "static/css/2.1601c95f.chunk.css",
+    "static/js/2.9baa47da.chunk.js",
+    "static/css/main.8a77f93c.chunk.css",
+    "static/js/main.971a99c8.chunk.js"
+  ]
+}
