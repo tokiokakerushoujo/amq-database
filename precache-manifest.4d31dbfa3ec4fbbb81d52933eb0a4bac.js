@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "85aff565b8ca4939cc19d07ea51b446d",
+    "revision": "bdfd63c6360dc5b02ce3808dde7c1e56",
     "url": "/amq-database/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amq-database/static/css/2.1601c95f.chunk.css"
   },
   {
-    "revision": "b3842146e5944128e20b",
+    "revision": "ef485b97d2cd4a9abd59",
     "url": "/amq-database/static/css/main.8a77f93c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amq-database/static/js/2.94d1f127.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b3842146e5944128e20b",
-    "url": "/amq-database/static/js/main.082b6df6.chunk.js"
+    "revision": "ef485b97d2cd4a9abd59",
+    "url": "/amq-database/static/js/main.6c750179.chunk.js"
   },
   {
     "revision": "3eceecc209c55a24d74d",
